@@ -1,5 +1,3 @@
-Here's a shortened and modified version of the README without the links:
-
 ---
 
 # Symptom Checker using NLP
