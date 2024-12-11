@@ -44,7 +44,7 @@ The app uses a JSON dataset (`symptoms.json`) that includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Sandesh13fr/symptom_checker.git
+   git clone (https://github.com/parul-bopche/Implementation_of_chatbot_using_nlp..git)
    ```
 2. Navigate to the project folder:
    ```bash
