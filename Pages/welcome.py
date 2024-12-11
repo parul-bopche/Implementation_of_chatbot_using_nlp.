@@ -23,4 +23,4 @@ with col1:
     """)
 
 
-st.link_button("Start Chatting", "https://symptom-checker-v1.streamlit.app/symp", icon="💬", type="primary", help="At your own risk")
+st.link_button("Start Chatting", "https://chatbot-sym.streamlit.app/Bot", icon="💬", type="primary", help="At your own risk")
